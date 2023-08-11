@@ -6,13 +6,8 @@
 - [ ] Good mom; indeed.
 - [X] Whatever, I do catwalk.
 
-
-
-
 > __NOTE__
 > I love to share my food
-
-
 
 ## Video
 
@@ -32,7 +27,7 @@
 
 `Highlight`
 
-| Me                   |      |
-| -------------------- | ---- |
-| I fear no dogs      | ✖️ |
-| I am birds frindly  | ❌   |
+| Me                  |      |
+| ------------------- | ---- |
+| I fear no dogs     | ✖️ |
+| I am birds friendly | ❌   |
