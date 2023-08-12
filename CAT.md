@@ -1,23 +1,8 @@
 # Iki
-
-
 - [X] I'm photogenic.
 - [ ] Good mom; indeed.
 - [X] Whatever, I do catwalk.
-
-
-
-> __NOTE__
-> I love to share my food
-
-
-
-
 ![IMG_5782](https://github.com/29Kumait/animals/assets/137179507/e1195767-86a4-433d-aa69-27bd9dc5f7c9)
-
-
-
-
 > __Warning__
 > 
 > Delayed Food Mood.
