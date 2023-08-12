@@ -2,7 +2,9 @@
 
 ## The Symbolism of Sheep
 
-![Sheep](https://file+.vscode-resource.vscode-cdn.net/Users/kumait/animals/Sheep.png)Sheep have long held symbolic significance across cultures. Representing qualities such as innocence, humility, and community, they remind us of the deeper connections we share with the natural world.
+![Unknown](https://github.com/29Kumait/animals/assets/137179507/a6606b53-eb8b-48c1-a2ac-c6517a7b56a0)
+
+Sheep have long held symbolic significance across cultures. Representing qualities such as innocence, humility, and community, they remind us of the deeper connections we share with the natural world.
 
 ## Unity in Grazing
 
