@@ -1,12 +1,4 @@
-
-# *`* dog *.* 
-
-
-
-https://github.com/29Kumait/animals/assets/137179507/1001e51c-c9ab-499b-be65-ea5dde6da2bd
-
-
-
+# *`*Dog *.* 
 
 <details>
 
