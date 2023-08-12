@@ -6,19 +6,30 @@
 - [X] Whatever, I do catwalk.
 
 
+![IMG_5782](https://github.com/29Kumait/animals/assets/137179507/968be242-bf51-44fa-8580-6f6040d90d37)
 
-![IMG_5782](https://github.com/29Kumait/animals/assets/137179507/e1195767-86a4-433d-aa69-27bd9dc5f7c9)
 
-> __Warning__
+>  __Warnin__
 > 
-> Delayed Food Mood.
+>  Delayed Food Mood.
 >
 > 
 
+
+![Subject 2](https://github.com/29Kumait/animals/assets/137179507/0d70963b-2e01-4376-bd40-85e6c01a2a2e)
+
+
+
+
+
+
+ 
+|    `Highlight`      |      |
+| ------------------- | ---- |
+| I fear no dogs      |  ✖️  |
+| I am birds friendly |  ❌  |
+
 <!-- <blockquote>
-    <p>
-    
-    </p>
     <p>
         It can
     </p>
@@ -27,30 +38,17 @@
     </p>
 </blockquote> -->
 
-![Subject 2](https://github.com/29Kumait/animals/assets/137179507/544ec48c-8a5c-4854-8e6d-47675cf1e118)
 
-
- 
-|   `Highlight`       |      |
-| ------------------- | ---- |
-| I fear no dogs      |  ✖️  |
-| I am birds friendly |  ❌  |
-
-
-![Subject 3](https://github.com/29Kumait/animals/assets/137179507/a4b87da5-61f0-40f5-941b-d2dc0dbe591a)
-
+![Subject 3](https://github.com/29Kumait/animals/assets/137179507/2960b957-5f70-4800-9ad8-69f727014a36)
 
 
 >  __NOTE__
 > 
 > I love to share my food
-
+>
+> 
 
 ## Video 
-
 <!-- Drag & Drop  -->
 
-https://github.com/29Kumait/animals/assets/137179507/fc7e0871-67bb-4be7-b328-64bf7dd5ca6e
-
-
-
+https://github.com/29Kumait/animals/assets/137179507/ec97cf6f-bf85-451b-b804-373c9bea92dc
