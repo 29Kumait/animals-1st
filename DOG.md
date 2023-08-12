@@ -31,10 +31,6 @@
 https://github.com/29Kumait/animals/assets/137179507/153196f5-d4d0-4292-81b5-400e9e40e971
 
 
-
-https://github.com/29Kumait/animals/assets/137179507/153196f5-d4d0-4292-81b5-400e9e40e971
-
-
 <!-- 
 > ```diff
 >  - Oprah Winfrey
