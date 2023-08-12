@@ -2,6 +2,12 @@
 # *`* dog *.* 
 
 
+
+https://github.com/29Kumait/animals/assets/137179507/1001e51c-c9ab-499b-be65-ea5dde6da2bd
+
+
+
+
 <details>
 
 <summary> Quotes </summary>
@@ -26,9 +32,7 @@
 </details>
 
 <!-- Video/Photo -->
-
-
-https://github.com/29Kumait/animals/assets/137179507/153196f5-d4d0-4292-81b5-400e9e40e971
+https://github.com/29Kumait/animals/assets/137179507/1e215911-5955-4b1f-a6ad-fe201240b984
 
 
 <!-- 
