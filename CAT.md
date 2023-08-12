@@ -10,7 +10,7 @@
 
 
 
-> ![Warning]
+> __Warning__
 > 
 > Delayed Food Mood.
 >
