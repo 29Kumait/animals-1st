@@ -9,9 +9,11 @@
 ![IMG_5782](https://github.com/29Kumait/animals/assets/137179507/968be242-bf51-44fa-8580-6f6040d90d37)
 
 
->  __Warnin__
+
+>  __Warning__
 > 
 >  Delayed Food Mood.
+> 
 >
 > 
 
