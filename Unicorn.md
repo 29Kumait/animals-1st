@@ -1,7 +1,6 @@
 ---
-## Unicorns 
-![Unicorn Image](https://example.com/unicorn.jpg)
-###### Image courtesy of [Example Source](https://example.com/)
+## Unicorns 🛸 🎠 🦄
+![Unicorn Image](https://)
 ---
 
 ### Overview
@@ -39,10 +38,6 @@ been popularized in cartoons, literature, movies, and digital media. From
 multifarious forms.
 
 ---
-
-![Unicorn Cartoon](https://example.com/unicorncartoon.jpg)
-###### Image courtesy of [Example Source](https://example.com/)
-
 ---
 
 ### Interesting Facts about Unicorns
